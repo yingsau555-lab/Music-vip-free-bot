@@ -1,5 +1,10 @@
+pyrogram==2.0.105
+
+pytgcalls==3.0.0
+
 pyrogram
 pytgcalls
 yt-dlp
 tgcalls
+
 
